@@ -1,0 +1,6 @@
+Log create [Thu Jun 20 19:35:39 CEST 2024];
+--------------------------------------------------
+Program started [Thu Jun 20 19:35:39 CEST 2024];
+--------------------------------------------------
+Category name: AAAAA has been added [Thu Jun 20 19:37:03 CEST 2024];
+Category id: 3 has been disabled [Thu Jun 20 19:37:31 CEST 2024];
