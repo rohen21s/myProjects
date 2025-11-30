@@ -70,7 +70,7 @@
 > Have installed pip, psutils library:
 > - sudo apt install python3-pip
 > - python3 -m pip install psutils
-> - sudo apt install python3-psutil #(in gase the previous doesn't work)
+> - sudo apt install python3-psutil #(in case the previous doesn't work)
 > 
 > To run the scripts: #cd SCRIPT_DIR/ 
 > - sudo ./network_monitoring.py 
