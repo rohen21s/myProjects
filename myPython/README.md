@@ -1,6 +1,20 @@
+# Contents
+```
+myPython
+├── crud
+│   ├── app.py
+│   └── contacts.txt
+├── tools
+│   ├── disk_monitoring.py
+│   ├── monitor_resources.py
+│   ├── network_monitoring.py
+│   ├── ps_monitoring.py
+│   └── sys_info.py
+└── README.md
+```
+
+
 # Cheat Sheet
-
-
 
 > ### Alias & Autocomplete for k8s
 >```
@@ -18,8 +32,8 @@
 >echo "source <(kubectl completion bash)" >> ~/.bashrc # add autocomplete permanently to your bash shell.
 >```
 
+<br>
 
----
 > ### Commands
 >```
 >## k8s ##
@@ -57,7 +71,8 @@
 >---
 >```
 
----
+<br>
+
 > ### LinuxOS Monitoring py-script
 > 
 > **_Requirements:_**
