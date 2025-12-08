@@ -1,4 +1,3 @@
 # About myProjects
 
-Explore [myProjects](https://github.com/svyatossr/myProjects) mainly created for Web Development Applications with the purpose of learning Object Oriented Programming languages. 
-
+Explore **`myProjects`** repository mainly created for `development of web applications` with the purpose of learning the basics of different `object-oriented` and `basic` `programming languages`.
